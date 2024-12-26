@@ -182,7 +182,7 @@
     "_priority": 0,
     "_fov": 45,
     "_fovAxis": 0,
-    "_orthoHeight": 432.34866828087166,
+    "_orthoHeight": 490.92369477911643,
     "_near": 0,
     "_far": 1000,
     "_color": {
@@ -601,7 +601,7 @@
     "_priority": 0,
     "_fov": 45,
     "_fovAxis": 0,
-    "_orthoHeight": 432.34866828087166,
+    "_orthoHeight": 490.92369477911643,
     "_near": 0,
     "_far": 1000,
     "_color": {
@@ -913,10 +913,10 @@
       "b": 187,
       "a": 255
     },
-    "_string": "Enter text here...",
+    "_string": "   输入回答...",
     "_horizontalAlign": 0,
     "_verticalAlign": 1,
-    "_actualFontSize": 20,
+    "_actualFontSize": 23.34375,
     "_fontSize": 20,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
@@ -1193,10 +1193,10 @@
       "b": 0,
       "a": 255
     },
-    "_string": "button",
+    "_string": "发送",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 20,
+    "_actualFontSize": 23.34375,
     "_fontSize": 20,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
@@ -2040,7 +2040,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 131.328125,
+      "width": 131.29286677961846,
       "height": 25.2
     },
     "_anchorPoint": {
@@ -2073,7 +2073,7 @@
     "_string": "ScrollView content",
     "_horizontalAlign": 0,
     "_verticalAlign": 0,
-    "_actualFontSize": 16,
+    "_actualFontSize": 18.675,
     "_fontSize": 16,
     "_fontFamily": "Arial",
     "_lineHeight": 20,
@@ -2465,6 +2465,7 @@
       "__uuid__": "23439dd0-fb72-4566-854e-5dca5edb4644",
       "__expectedType__": "cc.Prefab"
     },
+    "backendManager": null,
     "_id": "3114uuA5ZFRqEgQNAHHhgW"
   },
   {
